@@ -4,7 +4,7 @@
     <a href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
 </div>
 
-# hakai-dataset-repository-template
+# HakaiInstitute/QU39_inorganic_carbon_data_2016_2023
 
 Summary here
 
