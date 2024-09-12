@@ -1,0 +1,35 @@
+(1) Expocode: 189920160119
+(2) Cruise ID: QOMA
+(3) Year_UTC
+(4) Month_UTC
+(5) Day_UTC
+(6) Hour_UTC
+(7) Excel_Time_UTC: date and time in Excel number format
+(8) DOY (UTC): day-of-the-year
+(9) Lat: Latitude (positive degrees North)
+(10)Lon: Longitude (positive degrees East)
+(11)WOCE QC Flag for inorganic carbon data:  2 = acceptable, 3 = questionable, 6 = median of replicates, 9 = missing value
+(12)CTD P (dbar): extracted CTD pressure measurement in dbar at the depth Niskin bottle was tripped
+(13)CTD T (C): extracted CTD temperature measurement in degree C at the depth Niskin bottle was tripped
+(14)CTD S (PSS78): extracted CTD salinity measurement reported on PSS-78 at the depth Niskin bottle was tripped
+(15))CTD O2 (umol kg-1): extracted CTD oxygen measurement in umol kg-1 at the depth Niskin bottle was tripped
+(16)TCO2 (umol kg-1 ): measured total dissolved inorganic carbon in umol kg-1
+(17)Analysis T (deg C): seawater sample temperature in degree C during the pCO2 measurement
+(18)pCO2@analysisT: measured seawater pCO2 in uatm at the analysis temperature
+(19)headspace cor TCO2 (umol kg-1): total dissolved inorganic carbon in umol kg-1 corrected for alteration by a headspace gas with near atmospheric pCO2 content
+(20)Alkalinity(umol kg-1): derived seawater alkalinity in umol kg-1 using headspace cor TCO2, pCO2@analysisT, analysis T, and CTD S 
+(21))pCO2@insituT&P (uatm): derived seawater pCO2 at in situ temperature and pressure using alkalinity, TCO2, CTD S, CTD T, and CTD P 
+(22)pH@insituT&P (Total scale): derived seawater pH at in situ temperature and pressure and reported on Total scale using alkalinity, TCO2, CTD S, CTD T, and CTD P
+(23)Omega Calcite: derived seawater calcite saturation state at in situ temperature and pressure using alkalinity, TCO2, CTD S, CTD T, and CTD P
+(24)Omega Aragonite: derived seawater aragonite saturation state at in situ temperature and pressure using alkalinity, TCO2, CTD S, CTD T, and CTD P 
+(25)Revelle factor: derived seawater Revelle factor at in situ temperature and pressure using alkalinity, TCO2, CTD S, CTD T, and CTD P
+(26)Composite mean T (C): values for the composite seasonal cycle of temperature in degree C based on data from 2016 through 2023 
+(27)Composite mean S (PSS78): values for the composite seasonal cycle of salinity reported on PSS-78 based on data from 2016 through 2023 
+(28)Composite mean O2 (umol kg -1): values for the composite seasonal cycle of oxygen in umol kg-1 based on data from 2016 through 2023 
+(29)Composite mean TCO2 (umol kg -1 ): values for the composite seasonal cycle of TCO2 in umol kg-1 based on data from 2016 through 2023 
+(30)Composite mean alkalinity (umol kg -1 ): values for the composite seasonal cycle of alkalinity in umol kg-1 based on data from 2016 through 2023  
+(31)Composite mean pCO2@insituT&P (uatm): values for the composite seasonal cycle of pCO2@insituT&P in uatm based on data from 2016 through 2023 
+(32)Composite mean pH@insituT&P (Total scale): values for the composite seasonal cycle of pH@insituT&P reported on the Total scale based on data from 2016 through 2023 
+(33)Composite mean Omega Calcite: values for the composite seasonal cycle of calcite saturation state based on data from 2016 through 2023 
+(34)Composite mean Omega Aragonite: values for the composite seasonal cycle of aragonite saturation state based on data from 2016 through 2023 
+(35)Composite mean Revelle Factor: values for the composite seasonal cycle of Revelle factor based on data from 2016 through 2023 
