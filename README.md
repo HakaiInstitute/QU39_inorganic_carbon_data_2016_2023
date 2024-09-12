@@ -30,3 +30,7 @@ This time series is represented in the UN SDG 14.3.1 data portal: https://oa.iod
 
 See the data dictionary file for a complete description of data variables, units
 and descriptions.
+
+See the document TCO2 and pCO2 measurement quality control and uncertainty assessment for additional details.
+
+See the QU39_inorganic_carbon_data_2016_2023_metadata_file for additional metadata information
