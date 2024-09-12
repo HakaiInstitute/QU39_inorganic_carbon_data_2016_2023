@@ -6,32 +6,27 @@
 
 # HakaiInstitute/QU39_inorganic_carbon_data_2016_2023
 
-Summary here
-
-```
-repository reference citation
-```
+Carbon dioxide partial pressure (pCO2) and total dissolved inorganic carbon (TCO2) measurements were made on seawater collected from 12 depths at oceanographic station QU39 in the northern Strait of Georgia approximately every two weeks from January 2016 to December 2023. These data were collected as part of the Hakai Institute’s objective to report on patterns of ocean acidification in coastal British Columbia. Temperature, salinity, and pressure data were also captured using CTD profilers (either Sea-Bird Electronics or RBR units following best practices) at the time of seawater collection, and profile data was extracted for the depth at which Niskin bottles were tripped. Sampling depth was determined by calibrated line meter on the research vessel or RBR Solo pressure sensors attached to the Niskin bottle. Samples were fixed at the time of collection using 80 µl of mercuric chloride aboard the Hakai Institute’s research vessel. Temperature and salinity were determined at the time of sample analysis at the Quadra Island Field Station (QIFS) using NIST traceable thermometers (VWR PN 23609-176) and a YSI MultiLab 4010-1 with a MultiLab IDS 4310 conductivity and temperature probe. The YSI probe was calibrated using certified reference materials of known salinity prior to seawater sample analysis. For detailed protocols on sample collection and data processing, including CO2 system determination, please see Campbell et al. (2023; http://dx.doi.org/10.21966/1.521066). 
 
 ## Method
 
-Description of the methodology
+For analytical details please see Campbell et al. (2023; http://dx.doi.org/10.21966/1.521066)
+
+For discrete sample processing code please see: https://github.com/HakaiInstitute/Discrete-CO2-Processing-Code?tab=readme-ov-file
+
+For references to the methods please see: 
+
+Hales, B., Suhrbier, A., Waldbusser, G.G., Feely, R.A., and Newton, J.A. 2016. The Carbonate Chemistry of the "Fattening Line," Willapa Bay, 2011-2014. Estuaries and Coasts: DOI 10.1007/s12237-12016-10136-12237.
+
+Evans, W., Pocock, K., Hare, A., Weekes, C., Hales, B., Jackson, J., Gurney-Smith, H., Mathis, J.T., Alin, S.R., and Feely, R.A. 2019. Marine CO2 Patterns in the Northern Salish Sea. Frontiers in Marine Science 5. doi:10.3389/fmars.2018.00536.
 
 ## Reports
 
-Any link to reports associated with this dataset. The reports can be made available
-within this same repository.
+This time series has been reported in the Fisheries and Oceans Canada State of the Pacific Oceans Reports since 2017: https://www.dfo-mpo.gc.ca/oceans/publications/soto-rceo/2021/technical-technique-eng.html
+
+This time series is represented in the UN SDG 14.3.1 data portal: https://oa.iode.org/
 
 ## Resources
 
 See the data dictionary file for a complete description of data variables, units
 and descriptions.
-
-Link to any associated resources:
-
-- Data Management Plan
-- CIOOS CKAN record
-- ERDDAP Dataset
-- External Data Repositories
-- Publications
-
-*This dataset is generated via by the [hakai dataset template](https://github.com/HakaiInstitute/hakai-dataset-repository-template)*
