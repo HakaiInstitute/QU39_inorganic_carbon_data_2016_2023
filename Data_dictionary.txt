@@ -4,7 +4,7 @@
 (4) Month_UTC
 (5) Day_UTC
 (6) Hour_UTC
-(7) Excel_Time_UTC: date and time in Excel number format
+(7) Date_time: Date time in UTC yyyy-mm-dd hh:mm:ss
 (8) DOY (UTC): day-of-the-year
 (9) Lat: Latitude (positive degrees North)
 (10)Lon: Longitude (positive degrees East)
